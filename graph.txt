@@ -1,0 +1,24 @@
+A Graph is a non-linear data structure consistinf of nodes and edges. The nodes are sometimes also referred to as vertices
+and the edges are lines os arcs that connect any two nodes in the graph.
+Graph is a finite set of vertices(or nodes) and set of edges wich connect a pair of nodes.
+
+V = {0, 1, 2, 3, 4}
+E = {01, 12, 23, 34, 04, 14, 13}
+
+Graphs are used to solve many real-life problems. Graphs are used to represent networks.
+The networks may include paths in a city or telephone network or circuit network. Graphs are also used in social networks
+like linkedin, Facebook. for example, in faceboo, each person is represented with a vertex(or node). Each node is a
+structure and contains information like person id, name, gender, locale, etc.
+
+The following two are the most commonly used representations of a graph.
+1. Adjacency Matrix
+2. Adjacency List
+There are other representations also like, Incidence Matrix and Incidence List. The choice of graph representation is
+situation-specific. It totally depends on the type of operations to be performed and ease of use.
+
+
+Type of graphs
+    Undirected graph (connected component)
+
+approachs
+    DFS() - Depth First Search

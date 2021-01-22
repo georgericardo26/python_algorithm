@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=vYquumk4nWw&t=30s&ab_channel=CSDojo
+
+
+# Recursion
+
+# Criar um algoritmo eficiente para armazenar alguns resultados intermediarios
+
+# Voce nao precisara repetir esses subconjuntos novamente
+
+1. Exemplo com Sequencia Fibonacci
+    - Sequencia Fibonacci é uma sequencia de números que comeca com 2x o número 1 na sequencia.
+    - Os numeros seguintes aos 1's sao computados adicionando os 2 numeros anteriores
+         exemp: 1, 1, 2, 3, 4, 5
+            = 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5 e assim por diante.
+            Cria uma funcao que receba numeros e retorne o numero de corridas.
+
+
+Para Resolver um problema usando programacao dinamica, voce pode usar 3 abordagens:
+    1. Recursão
+    2. Armazenamento(Memoize)
+    3. Bottom-up
+
+
+
+https://www.freelancer.com/projects/python/python-create-simple-read-only/?ngsw-bypass=&w=f
